@@ -41,3 +41,9 @@ Start with [StormWorthy](https://gitlab.com/krahul02004/StormWorthy) and [Cairns
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Contributors
+
+- [Rahul Krishna](https://github.com/Rahul-Innv) - creator and contributor.
+- Claude Code - AI development assistance.
+- Codex - AI development assistance.
